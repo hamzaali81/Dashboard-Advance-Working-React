@@ -1,6 +1,7 @@
 import Test from './../Test';
 
-export const Router = [
+
+export const Routes = [
     {
         icon: '',
         label: 'Inbox',
